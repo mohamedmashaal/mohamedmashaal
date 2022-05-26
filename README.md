@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mashaal</h1>
-<h3 align="center">"The" Software Engineer</h3>
+<h3 align="center">The Software Engineer</h3>
 
 - 👨‍💻 I'm looking for a full time position as **Software Engineer**
 
